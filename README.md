@@ -120,4 +120,5 @@ Feedstock Maintainers
 =====================
 
 * [@dwhswenson](https://github.com/dwhswenson/)
+* [@sroet](https://github.com/sroet/)
 
