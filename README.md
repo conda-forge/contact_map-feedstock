@@ -5,7 +5,7 @@ Home: http://github.com/dwhswenson/contact_map
 
 Package license: LGPL-2.1+
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Contact maps based on MDTraj
 
