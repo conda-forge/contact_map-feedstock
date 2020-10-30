@@ -5,9 +5,11 @@ Home: http://github.com/dwhswenson/contact_map
 
 Package license: LGPL-2.1-or-later
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/contact_map-feedstock/blob/master/LICENSE.txt)
 
 Summary: Contact maps based on MDTraj
+
+Development: https://github.com/dwhswenson/contact_map
 
 Contact maps based on MDTraj; useful for studying for intramolecular
 and intermolecular contacts from simulations of biomolecular systems.
